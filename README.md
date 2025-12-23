@@ -10,7 +10,7 @@ Analysis of diabetes prevalence and patient health metrics including BMI, glucos
 - **Insulin Levels**: Diabetic patients show higher average insulin (207) compared to non-diabetic (130)
 
 ## Dashboard
-![Diabetes Risk Dashboard](diabetes1-1.png)
+![Diabetes Risk Dashboard](diabetes_dashboard)
 
 ## Dataset
 - **Total Patients**: 768
